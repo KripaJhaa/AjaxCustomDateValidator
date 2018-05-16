@@ -1,0 +1,157 @@
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\ApplicationInsights.config
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.exe
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.exe.config
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.rsp
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csi.exe
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csi.rsp
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.AppContext.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.exe
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.exe.config
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.rsp
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.dll.config
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.pdb
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.Mvc.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Helpers.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Mvc.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Optimization.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Razor.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\WebGrease.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.Mvc.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Helpers.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Mvc.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Optimization.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Razor.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.dll
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.pdb
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.Migrations.initalMigration.resources
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csproj.GenerateResource.Cache
+C:\Users\kripajha\documents\visual studio 2017\Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csprojResolveAssemblyReference.cache
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\ApplicationInsights.config
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.exe
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.exe.config
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csc.rsp
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csi.exe
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\csi.rsp
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.AppContext.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.IO.FileSystem.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.exe
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.exe.config
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\vbc.rsp
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\VBCSCompiler.exe
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.dll.config
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\letsTryEntityFramework.pdb
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Antlr3.Runtime.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.SqlServer.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Web.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.WindowsServer.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.ApplicationInsights.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Newtonsoft.Json.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.Mvc.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Helpers.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Mvc.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Optimization.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Razor.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Deployment.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Razor.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\WebGrease.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\EntityFramework.SqlServer.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\PagedList.Mvc.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Helpers.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Mvc.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Optimization.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.Razor.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Deployment.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\System.Web.WebPages.Razor.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Antlr3.Runtime.pdb
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Newtonsoft.Json.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.ApplicationInsights.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\bin\Microsoft.AI.Web.xml
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.Migrations.initalMigration.resources
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csproj.GenerateResource.cache
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csproj.CoreCompileInputs.cache
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csproj.CopyComplete
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.dll
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.pdb
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.csprojResolveAssemblyReference.cache
+E:\cloned From Previous Laptop\Asp.net Projects\letsTryEntityFramework\letsTryEntityFramework\obj\Debug\letsTryEntityFramework.Migrations.Initial.resources
